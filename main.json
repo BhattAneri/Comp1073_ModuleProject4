@@ -1,0 +1,34 @@
+{
+    "StrangeProducts":[
+     {
+      "name": "A Home mushroom holder",
+      "price" : 22.85,
+      "details" :"Now you can grow your own fungus right at home—and not in between your toes at a reasonable cost!",
+      "image": "mushroom.jpg"
+    },
+        {
+      "name": "A horror movie sound maker",
+      "price" : 299.99,
+      "details" :"Surprise guests by making them think It is hiding just around the corner.",
+      "image": "sound.jpg"
+    },
+        {
+      "name": "A Dog Dryer",
+      "price" : 39.99,
+      "details" :"Having a dog dry itself off all over your living room post-bath is rarely ideal. Fortunately, there's a bizarre blow-dryer suit out there that can help keep your pup from dripping all over the house!",
+      "image": "dogdryer.jpg"
+    },
+        {
+      "name": "A desktop refrigerator",
+      "price" : 38.00,
+      "details" :"Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+      "image": "fridge.jpg"
+    },
+        {
+      "name": "A realistic dog pillow",
+      "price" : 14.99,
+      "details" :"Just because your building doesn't allow pets doesn't mean you can't enjoy the company of a furry friend—albeit a not-so-animated one.",
+      "image": "dogpillow.jpg"
+    }
+ ]
+}
